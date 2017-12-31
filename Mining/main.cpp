@@ -47,6 +47,7 @@ unsigned long long int partition(unsigned  int cuts, unsigned  int lastcut){
     }
     return mini[lastcut][n-1];
 }
+// dfafgef
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
